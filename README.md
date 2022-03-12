@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennymario04
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Wordpress,HTML,CSS,Javascript,Node js
+- 🌱 I’m currently learning Wordpress,HTML,CSS,Javascript,Git,JQuery and PHP Framework
 - 📫 How to reach me? not now,coz iam newbie in this world,
 
 <!---
